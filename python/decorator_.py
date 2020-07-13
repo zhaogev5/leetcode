@@ -32,3 +32,4 @@ def climb(n,steps):
     return count
 
 print(climb(100,(1,2,3)))
+
